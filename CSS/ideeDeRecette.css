@@ -1,0 +1,20 @@
+#ingredients{
+    width: 450px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+
+#ingredients input{
+    width: 150px;
+}
+
+#searchform{
+    border: 1px solid;
+    width: 450px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+
+.input-group{
+    width: 350px;
+}

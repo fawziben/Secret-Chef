@@ -1,0 +1,28 @@
+.social-media-icons img{
+  height: 50px;
+  width: 50px;
+}
+.social-media-icons li{
+    display: inline;
+    list-style: none;
+}
+.social-media-icons ul {
+    display: inline-block;
+    horiz-align: right;
+}
+.logo{
+    width: 50%;
+}
+.logo img{
+    float: left;
+    height: 80px;
+    width: 120px;
+    display: inline;
+}
+.myheader{
+    display: flex;
+}
+.social-media-icons{
+    width: 50%;
+    text-align: right;
+}

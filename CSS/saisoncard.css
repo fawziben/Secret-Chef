@@ -1,0 +1,23 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    opacity: 70%;
+}
+.container img{
+    border-radius: 5px;
+    border: none;
+}
+.container:hover{
+    opacity: 100%;
+    cursor: pointer;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.all{
+    margin-top: 20px;
+}

@@ -1,0 +1,14 @@
+.navbar-nav li{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    font-family: "Arial Black";
+}
+
+.navbar-nav li:hover{
+    font-size: 30px;
+}
+
+.navbar{
+    color: #5c7c94;
+}
